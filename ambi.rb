@@ -3,13 +3,11 @@ in_thread do
   # selects a scale randomly
   define :scale_selector do
     scale_names.choose
-    :major
   end
   
   # selects a key randomly
   define :tonic_selector do
     [:A,:B,:C,:D,:E,:F,:G].choose
-    :C
   end
   
   scale_to_play = nil
