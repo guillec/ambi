@@ -7,7 +7,7 @@ Meet Ambi, your new best ambient friend. He likes to focus on creating music so 
 - You will need to download [sonic-pi](https://sonic-pi.net/)
 - Then copy [Ambi](https://github.com/guillec/ambi/blob/main/ambi.rb) into sonic-pi and press play.
 
-After this Ambi will start spitting out some mad notes and chords... he is an artist do not judge.
+After this Ambi will start spitting out some mad notes and chords... s/he is an artist do not judge.
 
 ## Examples
 
