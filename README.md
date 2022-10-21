@@ -12,7 +12,5 @@ After this Ambi will start spitting out some mad notes and chords... he is an ar
 ## Examples
 
 - [Example 1](https://youtu.be/jzv7XYw2jtY)
-<img width="204" alt="Screen Shot 2022-10-20 at 11 16 41 PM" src="https://user-images.githubusercontent.com/81830/197103353-57703b80-997c-4084-bbf6-b450890bf523.png">
-
-
+<img width="149" alt="Screen Shot 2022-10-20 at 11 21 40 PM" src="https://user-images.githubusercontent.com/81830/197104042-89609730-bee7-4f20-a014-7782aa17de70.png">
 
