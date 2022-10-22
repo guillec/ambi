@@ -36,4 +36,8 @@ Computer 1 with Sonic Pi > Pedals > Interface > DAW
 
 Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
+## Questions or Comments
+
+Feel free to write an issue on the project. I can also be reached at via [IG/guillecarlos](https://www.instagram.com/guillecarlos/)
+
 
