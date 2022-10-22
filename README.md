@@ -9,7 +9,7 @@ Meet Ambi, your new best ambient friend. S/He likes to focus on creating music s
 
 <img width="1911" alt="Screen Shot 2022-10-21 at 11 31 22 PM" src="https://user-images.githubusercontent.com/81830/197317253-60864758-0f66-4ddf-8d19-a33ccb498950.png">
 
-After this, Ambi will start spitting out some mad notes and chords... s/he is an artist do not judge.
+After this, Ambi will start spitting out some mad notes and chords... s/he is the artist, do not judge.
 
 ## Examples
 
@@ -24,13 +24,16 @@ Here are three examples of what you can do with Ambi. Please send me a link to a
 - [Majorish Example](https://youtu.be/HhAjrFv26lw)
 <img width="137" alt="Screen Shot 2022-10-21 at 11 23 47 PM" src="https://user-images.githubusercontent.com/81830/197316987-32151494-fd3e-4372-8e8f-290165137482.png">
 
-## My Signal Chain
+## Signal Chain
 
-# Note I have a interface that lets me Re Amp a signal so I used that my advatange in my signal chain.
+_Note I have a interface that lets me Re Amp a signal so I used that my advatange in my signal chain._
+
 Sonic Pi > Logic (output channel 3) > Interface > Pedals > Interface > Logic
 
 ## Other Options
+
 Computer 1 with Sonic Pi > Pedals > Interface > DAW
 
+Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
 
