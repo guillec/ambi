@@ -28,7 +28,7 @@ Here are three examples of what you can do with Ambi. Please send me a link to a
 
 _Note I have a interface that lets me Re Amp a signal so I used that my advatange in my signal chain._
 
-Sonic Pi > Logic (output channel 3) > Interface > Pedals > Interface > Logic
+Sonic Pi > Logic > Interface > Pedals > Interface > Logic
 
 ## Other Options
 
