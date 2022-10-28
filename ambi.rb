@@ -1,11 +1,12 @@
 in_thread do
   
+  # initialize local variables
   scale_to_play = nil
   tonic_to_play = nil
   progression_to_play = nil
   rythm_to_play = nil
   
-  # selects a scale randomly
+  # selects a scale randomly. although we will only work with major and minor for now.
   define :scale_selector do
     new_scale = scale_names.choose
     if scale_to_play == new_scale
@@ -13,33 +14,34 @@ in_thread do
     end
     new_scale
     
-    scale_to_play = [:major, :minor].choose # for now lets stick to major or minor.
+    scale_to_play = [:major, :minor].choose
   end
   
-  # selects a key randomly ex. C4, F3
+  # selects a tonic randomly ex. C4, F3
+  # could add sharp and flats later on.
   define :tonic_selector do
     [:A,:B,:C,:D,:E,:F,:G].map do |item|
       [3,4].map { |num| "#{item}#{num}".to_sym }
     end.flatten.choose
   end
   
-  # set the scale and key to be used in the notes and chords loop
+  # set the scale and tonic to be used in the notes and chords loop
   define :change_key do
-    puts "Changing key and scale!!!!!!!!!!!!!!!!!!!!"
+    puts "Changing key and scale!"
     scale_to_play = scale_selector || scale_selector
     tonic_to_play = tonic_selector || tonic_selector
   end
-  change_key
+  change_key # initialize the scale and tonic.
   
   # plays single notes for the 'melody'
   live_loop :notes do
     use_bpm rrand(60, 80)
     
-    # randomly select a synth type
+    # randomly select a synth type, although for now we just use piano.
     synth_selector = [:piano].choose
     use_synth synth_selector
     
-    # build a list of size between 0 and 7
+    # build a list of size between 0 and 4
     # this list will decide how many notes and which notes
     # we play as a pattern.
     array = Array.new(rand(4))
@@ -55,8 +57,8 @@ in_thread do
     
     # plays the pattern
     # amp => is the volume
-    play_pattern_timed notes_array, [1,2,3,4,5].shuffle,
-      amp: rrand(10, 30),
+    play_pattern_timed notes_array, [0.25,0.5,0.75,1].shuffle,
+      amp: rrand(1,5),
       pitch: [12, 24].choose,
       attack: rrand(0.1, 0.2),
       decay: 0.2,
@@ -69,18 +71,17 @@ in_thread do
   
   # selects a chord progression randomly
   define :chord_progression_selector do
-    progression = [[2,5,1], [1,7,6,5], [1,3,6,2,5,1]].choose
+    progression = [[2,5,1], [1,7,6,5], [1,3,6,2,5,1], [6,4,1,5]].choose
     puts progression
     progression
   end
   
-  # selects a chord progression randomly
+  # selects a time to run each loop for chords.
   define :chord_beats_selector do
-    rythm = rrand(3,10)
-    puts rythm
-    rythm
+    rrand(3,10)
   end
   
+  # set rythm related variables
   define :change_rythms do
     progression_to_play = chord_progression_selector
     rythm_to_play = chord_beats_selector
@@ -113,7 +114,7 @@ in_thread do
       # play the chord
       # amp => is the volume
       play (chord_degree degree, tonic_to_play, scale_to_play, number_of_notes, invert: inversion),
-        amp: rrand(30,90),
+        amp: rrand(10,20),
         pitch: [0].choose,
         attack: rrand(0.1, 0.5),
         decay: 0.5,
@@ -123,9 +124,10 @@ in_thread do
       sleep rrand(2,8)
     end
     
+    # we want a chord progression to repeat for a certain amount of loops. If not the song it tooo random.
+    # this code decides when to pick a new chord progression and tempo at which to play.
     puts "looped times #{looped_times}"
     if looped_times == 10
-      puts "in!"
       
       change_key
       change_rythms
