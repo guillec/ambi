@@ -124,7 +124,7 @@ in_thread do
       sleep rrand(2,8)
     end
     
-    # we want a chord progression to repeat for a certain amount of loops. If not the song it tooo random.
+    # we want a chord progression to repeat for a certain amount of loops. If not the song is tooo random.
     # this code decides when to pick a new chord progression and tempo at which to play.
     puts "looped times #{looped_times}"
     if looped_times == 10
