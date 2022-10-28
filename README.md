@@ -38,7 +38,7 @@ Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
 ## Questions or Comments
 
-Feel free to write an issue on the project. I can also be reached at via [IG/guillecarlos](https://www.instagram.com/guillecarlos/)
+Feel free to write an issue on the project. I can also be reached at via [IG/guillecarlos](https://www.instagram.com/guillecarlos/). I will also be streaming [Ambi on twitch](https://www.twitch.tv/guille_carlos), not sure when or how often but it will happen. 
 
 ## What is next?
 
