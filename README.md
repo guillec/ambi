@@ -40,4 +40,9 @@ Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
 Feel free to write an issue on the project. I can also be reached at via [IG/guillecarlos](https://www.instagram.com/guillecarlos/)
 
+## What is next?
+
+- Add more random sprinkle notes. 
+- Add more ambientish chord progressions.
+
 
