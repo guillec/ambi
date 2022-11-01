@@ -127,7 +127,7 @@ in_thread do
     # we want a chord progression to repeat for a certain amount of loops. If not the song is tooo random.
     # this code decides when to pick a new chord progression and tempo at which to play.
     puts "looped times #{looped_times}"
-    if looped_times == 10
+    if looped_times == 5
       
       change_key
       change_rythms
