@@ -51,11 +51,11 @@ These are longer examples that you can listen to on youtube.
 
 _Note I have a interface that lets me Re Amp a signal so I used that my advatange in my signal chain._
 
-Sonic Pi > Logic > Interface > Pedals > Interface > Logic
+Sonic Pi > Interface > Pedals > Interface > Logic
 
 ## Other Options
 
-Computer 1 with Sonic Pi > Pedals > Interface > DAW
+Computer with Sonic Pi > Pedals > Interface > DAW
 
 Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
@@ -67,5 +67,6 @@ Feel free to write an issue on the project. I can also be reached at via [IG/gui
 
 - Add more random sprinkle notes. 
 - Add more ambientish chord progressions.
+- Thinking of keeping the chords in lower frequency.
 
 
