@@ -15,7 +15,7 @@ After this, Ambi will start spitting out some mad notes and chords... s/he is th
 
 I can think of a two good reason why this tool is helpful.
 
-1. You get a looper pedal for free. If you are like me and use your looper pedal at the beginning of your signal chain, Ambi replaces it. So not you can use that looper in other parts of your signal.
+1. You get a looper pedal for free. If you are like me and use your looper pedal at the beginning of your signal chain, Ambi replaces it. So now you can use that looper in other parts of your signal.
 
 2. No need to think about what to play today, just let Ambi handle it for you. This lets you focus on the processing of sound.
 
