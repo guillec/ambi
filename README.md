@@ -1,6 +1,6 @@
 # Ambi
 
-Meet Ambi, your new best ambient friend. S/He likes to focus on creating music so that you can focus on the processing of the sounds. Ambi is a self generating notes and chords creator. S/He will pick the key, scales, time, pitch ... all so that you can focus on manipulating the sound.
+Meet Ambi, your new best ambient friend. S/He likes to focus on creating music so that you can focus on the processing of sounds. Ambi is a self generating notes and chords creator. S/He will pick the key, scales, time, pitch ... all so that you can focus on manipulating the sound.
 
 ## How does it work?
 
