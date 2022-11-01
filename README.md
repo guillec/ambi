@@ -21,7 +21,22 @@ I can think of a two good reason why this tool is helpful.
 
 ## Examples
 
-Here are three examples of what you can do with Ambi. Please send me a link to any collaboration you might do with Ambi.
+Here are three short and three longer examples of what you can do with Ambi.
+Please send me a link to any collaboration you might do with Ambi.
+
+### Short Clip Examples
+
+These are 10 second clips of soundscapes done with Ambi.
+
+https://user-images.githubusercontent.com/81830/199151946-2d388847-684c-4993-aaa7-454455dcb037.mp4
+
+https://user-images.githubusercontent.com/81830/199152527-f6d740c6-8109-441c-9d4e-c3f734413daa.mp4
+
+https://user-images.githubusercontent.com/81830/199152895-8b64abb4-78c1-4b6b-8527-a574a76b0fe5.mp4
+
+### Longer Clip Examples
+
+These are longer examples that you can listen to on youtube.
 
 - [Droneish Example](https://youtu.be/jzv7XYw2jtY)
 <img width="138" alt="Screen Shot 2022-10-20 at 11 21 40 PM" src="https://user-images.githubusercontent.com/81830/197104042-89609730-bee7-4f20-a014-7782aa17de70.png">
