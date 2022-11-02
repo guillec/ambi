@@ -2,12 +2,20 @@
 
 Meet Ambi, your new best ambient friend. S/He likes to focus on creating music so that you can focus on the processing of sounds. Ambi is a self generating notes and chords creator. S/He will pick the key, scales, time, pitch ... all so that you can focus on manipulating the sound.
 
-## How does it work?
+## How to use?
 
-- You will need to download [Sonic Pi](https://sonic-pi.net/)
-- Then copy [Ambi](https://github.com/guillec/ambi/blob/main/ambi.rb) into Sonic Pi and press play. No seriously copy the script from [here](https://github.com/guillec/ambi/blob/main/ambi.rb) and paste it here:
+- You will need to download and install [Sonic Pi](https://sonic-pi.net/)
+- <a href="https://raw.githubusercontent.com/guillec/ambi/main/ambi.rb" download>Download</a> the ambi.rb script.
+- Open Sonic Pi
+<img width="1912" alt="Screen Shot 2022-11-02 at 8 43 40 AM" src="https://user-images.githubusercontent.com/81830/199492665-de44bd3e-9bdd-4196-8c5e-20f052d414f7.png">
+- Click 'Code' on the top menu.
+<img width="1914" alt="Screen Shot 2022-11-02 at 8 44 20 AM" src="https://user-images.githubusercontent.com/81830/199492801-ccfc5d98-52e5-48e2-b9bb-6874b45c9cf0.png">
+- Click 'Load'
+<img width="1911" alt="Screen Shot 2022-11-02 at 8 44 54 AM" src="https://user-images.githubusercontent.com/81830/199492913-be625181-0e28-4039-814e-a7fabe1615f5.png">
+- Find where you downloaded the ambi.rb file and select it. You should now see the code in Sonic Pi
+<img width="1916" alt="Screen Shot 2022-11-02 at 8 45 45 AM" src="https://user-images.githubusercontent.com/81830/199493093-144072c1-bda5-4bc7-9791-4fbe52007ffd.png">
+- Press 'run'
 
-<img width="1911" alt="Screen Shot 2022-10-21 at 11 31 22 PM" src="https://user-images.githubusercontent.com/81830/197317253-60864758-0f66-4ddf-8d19-a33ccb498950.png">
 
 After this, Ambi will start spitting out some mad notes and chords... s/he is the artist, do not judge.
 
