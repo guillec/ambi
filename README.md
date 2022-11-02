@@ -8,12 +8,19 @@ Meet Ambi, your new best ambient friend. S/He likes to focus on creating music s
 - [Download](https://raw.githubusercontent.com/guillec/ambi/main/ambi.rb "download") the ambi.rb file.
 - Open Sonic Pi
 <img width="1912" alt="Screen Shot 2022-11-02 at 8 43 40 AM" src="https://user-images.githubusercontent.com/81830/199492665-de44bd3e-9bdd-4196-8c5e-20f052d414f7.png">
+
 - Click 'Code' on the top menu.
+
 <img width="1914" alt="Screen Shot 2022-11-02 at 8 44 20 AM" src="https://user-images.githubusercontent.com/81830/199492801-ccfc5d98-52e5-48e2-b9bb-6874b45c9cf0.png">
+
 - Click 'Load'
+
 <img width="1911" alt="Screen Shot 2022-11-02 at 8 44 54 AM" src="https://user-images.githubusercontent.com/81830/199492913-be625181-0e28-4039-814e-a7fabe1615f5.png">
+
 - Find where you downloaded the ambi.rb file and select it. You should now see the code in Sonic Pi
+
 <img width="1916" alt="Screen Shot 2022-11-02 at 8 45 45 AM" src="https://user-images.githubusercontent.com/81830/199493093-144072c1-bda5-4bc7-9791-4fbe52007ffd.png">
+
 - Press 'run'
 
 
