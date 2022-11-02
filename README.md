@@ -2,6 +2,33 @@
 
 Meet Ambi, your new best ambient friend. S/He likes to focus on creating music so that you can focus on the processing of sounds. Ambi is a self generating notes and chords creator. S/He will pick the key, scales, time, pitch ... all so that you can focus on manipulating the sound.
 
+## Examples
+
+Here are three short and three longer examples of what you can do with Ambi.
+
+### Short Clip Examples
+
+These are 10 second clips of soundscapes done with Ambi.
+
+https://user-images.githubusercontent.com/81830/199151946-2d388847-684c-4993-aaa7-454455dcb037.mp4
+
+https://user-images.githubusercontent.com/81830/199152527-f6d740c6-8109-441c-9d4e-c3f734413daa.mp4
+
+https://user-images.githubusercontent.com/81830/199152895-8b64abb4-78c1-4b6b-8527-a574a76b0fe5.mp4
+
+### Longer Clip Examples
+
+These are longer examples that you can listen to on youtube.
+
+- [Droneish Example](https://youtu.be/jzv7XYw2jtY)
+<img width="138" alt="Screen Shot 2022-10-20 at 11 21 40 PM" src="https://user-images.githubusercontent.com/81830/197104042-89609730-bee7-4f20-a014-7782aa17de70.png">
+
+- [Clean Example](https://www.twitch.tv/videos/1634666607)
+<img width="138" alt="Screen Shot 2022-10-27 at 11 43 58 PM" src="https://user-images.githubusercontent.com/81830/198497606-95712a91-ed06-4f73-8cdd-26b722703a30.png">
+
+- [Majorish Example](https://youtu.be/HhAjrFv26lw)
+<img width="137" alt="Screen Shot 2022-10-21 at 11 23 47 PM" src="https://user-images.githubusercontent.com/81830/197316987-32151494-fd3e-4372-8e8f-290165137482.png">
+
 ## How to use?
 
 - You will need to download and install [Sonic Pi](https://sonic-pi.net/)
@@ -34,33 +61,7 @@ I can think of a two good reason why this tool is helpful.
 
 2. No need to think about what to play today, just let Ambi handle it for you. This lets you focus on the processing of sound.
 
-## Examples
 
-Here are three short and three longer examples of what you can do with Ambi.
-Please send me a link to any collaboration you might do with Ambi.
-
-### Short Clip Examples
-
-These are 10 second clips of soundscapes done with Ambi.
-
-https://user-images.githubusercontent.com/81830/199151946-2d388847-684c-4993-aaa7-454455dcb037.mp4
-
-https://user-images.githubusercontent.com/81830/199152527-f6d740c6-8109-441c-9d4e-c3f734413daa.mp4
-
-https://user-images.githubusercontent.com/81830/199152895-8b64abb4-78c1-4b6b-8527-a574a76b0fe5.mp4
-
-### Longer Clip Examples
-
-These are longer examples that you can listen to on youtube.
-
-- [Droneish Example](https://youtu.be/jzv7XYw2jtY)
-<img width="138" alt="Screen Shot 2022-10-20 at 11 21 40 PM" src="https://user-images.githubusercontent.com/81830/197104042-89609730-bee7-4f20-a014-7782aa17de70.png">
-
-- [Clean Example](https://www.twitch.tv/videos/1634666607)
-<img width="138" alt="Screen Shot 2022-10-27 at 11 43 58 PM" src="https://user-images.githubusercontent.com/81830/198497606-95712a91-ed06-4f73-8cdd-26b722703a30.png">
-
-- [Majorish Example](https://youtu.be/HhAjrFv26lw)
-<img width="137" alt="Screen Shot 2022-10-21 at 11 23 47 PM" src="https://user-images.githubusercontent.com/81830/197316987-32151494-fd3e-4372-8e8f-290165137482.png">
 
 ## Signal Chain
 
