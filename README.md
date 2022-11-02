@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/81830/199152895-8b64abb4-78c1-4b6b-852
 
 ### Longer Clip Examples
 
-These are longer examples that you can listen to on youtube.
+These are longer examples that you can listen to on youtube and twitch.
 
 - Droneish Example
 
