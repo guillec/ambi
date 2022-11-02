@@ -8,7 +8,7 @@ Here are three short and three longer examples of what you can do with Ambi.
 
 ### Short Clip Examples
 
-These are 10 second clips of soundscapes done with Ambi.
+These are 10 second clips of soundscapes done with Ambi. (make sure your the volumen is unmuted)
 
 https://user-images.githubusercontent.com/81830/199151946-2d388847-684c-4993-aaa7-454455dcb037.mp4
 
