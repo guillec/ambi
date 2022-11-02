@@ -34,6 +34,8 @@ These are longer examples that you can listen to on youtube.
 
 ## How to use?
 
+The short story is that you just need to download a file and load it into Sonic Pi. Following you will find a more detailed explanation.
+
 - You will need to download and install [Sonic Pi](https://sonic-pi.net/)
 - [Download](https://raw.githubusercontent.com/guillec/ambi/main/ambi.rb "download") the ambi.rb file.
 - Open Sonic Pi
