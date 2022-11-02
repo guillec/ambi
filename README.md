@@ -5,7 +5,7 @@ Meet Ambi, your new best ambient friend. S/He likes to focus on creating music s
 ## How to use?
 
 - You will need to download and install [Sonic Pi](https://sonic-pi.net/)
-- <a href="https://raw.githubusercontent.com/guillec/ambi/main/ambi.rb" download>Download</a> the ambi.rb script.
+- [Download ambi.rb](https://raw.githubusercontent.com/guillec/ambi/main/ambi.rb "download")
 - Open Sonic Pi
 <img width="1912" alt="Screen Shot 2022-11-02 at 8 43 40 AM" src="https://user-images.githubusercontent.com/81830/199492665-de44bd3e-9bdd-4196-8c5e-20f052d414f7.png">
 - Click 'Code' on the top menu.
