@@ -8,7 +8,7 @@ Here are three short and three longer examples of what you can do with Ambi.
 
 ### Short Clip Examples
 
-These are 10 second clips of soundscapes done with Ambi. (make sure your the volumen is unmuted)
+These are 10 second clips of soundscapes done with Ambi. (make sure your the volume is unmuted)
 
 https://user-images.githubusercontent.com/81830/199151946-2d388847-684c-4993-aaa7-454455dcb037.mp4
 
@@ -58,9 +58,9 @@ The short story is that you just need to download a file and load it into Sonic 
 
 After this, Ambi will start spitting out some mad notes and chords... s/he is the artist, do not judge.
 
-## Why would I used this?
+## Why would I use this?
 
-I can think of a two good reason why this tool is helpful.
+I can think of two good reasons why this tool is helpful.
 
 1. You get a looper pedal for free. If you are like me and use your looper pedal at the beginning of your signal chain, Ambi replaces it. So now you can use that looper in other parts of your signal.
 
@@ -70,7 +70,7 @@ I can think of a two good reason why this tool is helpful.
 
 ## Signal Chain
 
-_Note I have a interface that lets me Re Amp a signal so I used that to my advantange in my signal chain._
+_Note I have a interface that lets me Re Amp a signal so I used that to my advantage in my signal chain._
 
 Sonic Pi > Interface > Pedals > Interface > Logic
 
@@ -82,15 +82,17 @@ Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
 ## Questions or Comments
 
-Feel free to write an issue on the project. I can also be reached at via [IG/guillecarlos](https://www.instagram.com/guillecarlos/). I will also be streaming [Ambi on twitch](https://www.twitch.tv/guille_carlos), not sure when or how often but it will happen. 
+Feel free to write an issue on the project. I can also be reached via [IG/guillecarlos](https://www.instagram.com/guillecarlos/). I will also be streaming [Ambi on twitch](https://www.twitch.tv/guille_carlos), not sure when or how often but it will happen. 
 
 ## What is next?
 
 - Add more random sprinkle notes. 
 - Add more ambientish chord progressions.
+- More scales ?
 - Thinking of keeping the chords in lower frequency.
 
 # Want to collaborate with Ambi?
-Please send me anything you might create with this scipt. Would love to hear what others can create with this script.
+
+Please send me anything you might create with this tool. I would love to hear what others can create with Ambi.
 
 
