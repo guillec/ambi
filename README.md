@@ -90,4 +90,7 @@ Feel free to write an issue on the project. I can also be reached at via [IG/gui
 - Add more ambientish chord progressions.
 - Thinking of keeping the chords in lower frequency.
 
+# Want to collaborate with Ambi?
+Please send me anything you might create with this scipt. Would love to hear what others can create with this script.
+
 
