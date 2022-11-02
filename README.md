@@ -70,7 +70,7 @@ I can think of a two good reason why this tool is helpful.
 
 ## Signal Chain
 
-_Note I have a interface that lets me Re Amp a signal so I used that to my advatange in my signal chain._
+_Note I have a interface that lets me Re Amp a signal so I used that to my advantange in my signal chain._
 
 Sonic Pi > Interface > Pedals > Interface > Logic
 
