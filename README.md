@@ -82,7 +82,7 @@ Rasberry Pi with Sonic Pi > Pedals > Interface > DAW
 
 ## Questions or Comments
 
-Feel free to write an issue on the project. I can also be reached via [IG/guillecarlos](https://www.instagram.com/guillecarlos/). I will also be streaming [Ambi on twitch](https://www.twitch.tv/guille_carlos), not sure when or how often but it will happen. 
+Feel free to write an issue on the project. I can also be reached via [IG/guillecarlos](https://www.instagram.com/guillecarlos/). I did a stream with [Ambi on twitch](https://www.twitch.tv/videos/1645131939) for the Ambient Fam event on Nov 4. If you would like to follow my channel as I will be doing more. 
 
 ## What is next?
 
